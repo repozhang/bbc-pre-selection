@@ -1,4 +1,3 @@
-
-I will push the full code after the SCAI workshop since I need to delete some unuseful module.
-
-CaKe.py is the main model part, written in PyTorch.
+use run_Cake.py file to run the code. 
+Change batch_size and input/output file.
+Also you need to change the t parameter. t=10 is for test. 
